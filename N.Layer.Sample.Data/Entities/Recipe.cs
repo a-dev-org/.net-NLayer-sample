@@ -1,4 +1,6 @@
-﻿namespace N.Layer.Sample.Data.Entities;
+﻿using System;
+
+namespace N.Layer.Sample.Data.Entities;
 
 public class Recipe : BaseEntity
 {

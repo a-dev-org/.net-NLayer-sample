@@ -1,4 +1,5 @@
-﻿using FluentValidation;
+﻿using System;
+using FluentValidation;
 
 namespace N.Layer.Sample.Core.Dto.Recipe;
 
